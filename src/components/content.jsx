@@ -14,7 +14,7 @@ const Content = () => {
       >
         <img className="w-10 h-10 ml-3" src={Fb} alt="Facebook" />
         <a
-          href="https://www.facebook.com/profile.php?id=100094094267808"
+          href="https://www.facebook.com/ls.aqarat?mibextid=LQQJ4d"
           className="text-center ml-20"
         >
           <h1 className="text-center ">Facebook</h1>
@@ -26,7 +26,7 @@ const Content = () => {
       >
         <img className="w-10 h-10 ml-3" src={Insta} alt="instagram" />
         <a
-          href="https://www.instagram.com/ls.aqar/"
+          href="https://instagram.com/ls_aqar?igshid=MzRlODBiNWFlZA=="
           className="text-center ml-20"
         >
           <h1 className="text-center ">Instagram</h1>
